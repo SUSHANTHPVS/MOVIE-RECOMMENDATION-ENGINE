@@ -1,0 +1,6 @@
+Original Actors: ['Tom Cruise', 'Tom Hanks', 'Scarlett Johansson']
+Squished Actors: ['TomCruise', 'TomHanks', 'ScarlettJohansson']
+Original Director: ['Christopher Nolan']
+Squished Director: ['ChristopherNolan']
+
+ Success: Christopher Nolan was squished correctly!

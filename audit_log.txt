@@ -1,0 +1,4 @@
+PS C:\Users\Loca\Desktop\movie-recommender> py scripts/clean_check.py    
+--- Workspace Audit for: movie-recommender ---
+SUCCESS: 'scripts' folder detected. Your workspace is organized!
+PS C:\Users\Loca\Desktop\movie-recommender>
