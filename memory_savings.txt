@@ -1,0 +1,2 @@
+I reduced my data memory footprint by [0.74]%
+My matrix is 38.89% sparse. This means I am saving a huge amount of memory by not storing empty zeros.

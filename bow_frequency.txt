@@ -1,0 +1,5 @@
+--- Our First Bag-of-Words Matrix ---
+   away  battle  car  chase  city  explorer  far  fast  finds  galaxy  in  new  space  the
+0     1       1    0      0     0         0    1     0      0       1   1    0      2    0
+1     0       0    1      1     1         0    0     1      0       0   1    0      0    1
+2     0       0    0      0     0         1    0     0      1       1   0    1      1    0

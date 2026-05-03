@@ -1,0 +1,5 @@
+Initial columns: 20
+Columns after dropping dead weight: 5
+
+--- Essential Columns Remaining ---
+['genres', 'id', 'keywords', 'overview', 'title']

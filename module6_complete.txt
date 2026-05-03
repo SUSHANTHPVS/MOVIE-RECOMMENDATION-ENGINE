@@ -1,0 +1,6 @@
+ Success! Your clean data has been saved to: data/processed_movies.csv
+
+--- Verifying Exported File ---
+   movie_id                     title                                           tags
+0     19995                    Avatar  action adventure fantasy marine soldier alien
+1       285  Pirates of the Caribbean         adventure fantasy ocean captain pirate

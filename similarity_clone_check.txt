@@ -1,0 +1,6 @@
+--- Scikit-Learn Similarity Results ---
+Similarity (Iron Man vs. Avengers): 0.94
+Similarity (Iron Man vs. Finding Nemo): 0.33
+Similarity (Iron Man vs. Finding Nemo): 1.0
+
+Result: These movies are a great match for a recommendation!

@@ -1,0 +1,6 @@
+--- Data Cleaning Pipeline Visualization ---
+RAW GENRES: [{"name": "Action"}, {"name": "Sci-Fi"}]
+CLEANED GENRES: ['Action', 'Sci-Fi']
+------------------------------
+FINAL BLENDED TAGS FOR THE ENGINE:
+after being held captive, tony stark builds a suit.castrobert downey jr. Action Sci-Fi marvel superhero billionaire

@@ -1,0 +1,25 @@
+--- Missing Data Audit (Null Counts) ---
+budget                     0
+genres                     0
+homepage                3091
+id                         0
+keywords                   0
+original_language          0
+original_title             0
+overview                   3
+popularity                 0
+production_companies       0
+production_countries       0
+release_date               1
+revenue                    0
+runtime                    2
+spoken_languages           0
+status                     0
+tagline                  844
+title                      0
+vote_average               0
+vote_count                 0
+dtype: int64
+
+🔍 Observation:
+The 'overview' column has 3 missing values.

@@ -1,0 +1,9 @@
+✅ Dataset loaded successfully!
+📊 Dataset Dimensions: (4803, 20)
+📋 Columns found: ['budget', 'genres', 'homepage', 'id', 'keywords', 'original_language', 'original_title', 'overview', 'popularity', 'production_companies', 'production_countries', 'release_date', 'revenue', 'runtime', 'spoken_languages', 'status', 'tagline', 'title', 'vote_average', 'vote_count']
+
+--- Quick Peek at Data ---
+                                      title                                             genres  vote_average
+0                                    Avatar  [{"id": 28, "name": "Action"}, {"id": 12, "nam...           7.2
+1  Pirates of the Caribbean: At World's End  [{"id": 12, "name": "Adventure"}, {"id": 14, "...           6.9
+2                                   Spectre  [{"id": 28, "name": "Action"}, {"id": 12, "nam...           6.3

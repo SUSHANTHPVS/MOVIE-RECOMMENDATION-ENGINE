@@ -1,0 +1,4 @@
+🚀 Starting the Big Calculation (Comparing 4,803 movies)...
+✅ Finished! Calculation took 0.01 seconds.
+📊 Similarity Matrix Shape: (2, 2)
+cpu percentage:25%

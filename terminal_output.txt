@@ -1,0 +1,11 @@
+Directory: C:\Users\Loca\Desktop\movie-recommender
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        21-02-2026     19:54                data
+d-----        21-02-2026     19:58                scripts
+-a----        21-02-2026     19:55            232 audit_log.txt
+-a----        21-02-2026     19:57         175203 Extension_Proof.png.png
+-a----        21-02-2026     19:29            669 hello_world.py
+-a----        21-02-2026     19:50         154997 Module1_proof.png.png

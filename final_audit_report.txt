@@ -1,0 +1,7 @@
+--- Starting Module 4 Final Audit ---
+📊 AUDIT: Comparing 'Iron Man' and 'The Avengers'
+📐 Mathematical Score: 0.0
+❌ FAIL: The score is too low. Check your vectorization settings.
+📊 AUDIT: Comparing 'Iron Man' and 'Finding Nemo'
+📐 Mathematical Score: 0.0
+❌ FAIL: The score is too low. Check your vectorization settings.

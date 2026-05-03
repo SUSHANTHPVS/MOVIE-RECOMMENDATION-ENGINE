@@ -1,0 +1,3 @@
+--- North Star Located: The Avengers ---
+Index Position: 16
+Vector Shape: (1, 5000)
